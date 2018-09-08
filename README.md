@@ -5,7 +5,7 @@ A small library that adds/multiplies two numbers
 
 ## Installation
 
- 
+ npm i math-lib-test
 
 ## Usage
 
