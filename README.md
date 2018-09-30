@@ -1,7 +1,7 @@
 Math library
 =========
 
-A small library that adds/multiplies two numbers
+A small library that adds/multiplies two numbers. This libraryy is written in ES5, commonJS, browserify and gulp
 
 ## Installation
 
@@ -16,6 +16,14 @@ A small library that adds/multiplies two numbers
 ## Contributing
 
 ## References
+
+//module best practises
+https://github.com/mattdesl/module-best-practices
+
+//npm module boilerplate
+https://hackernoon.com/publish-your-own-npm-package-946b19df577e
+https://github.com/flexdinesh/npm-module-boilerplate
+
 https://css-tricks.com/gulp-for-beginners/
 https://www.engineyard.com/blog/client-side-javascript-project-gulp-and-browserify
 
@@ -30,3 +38,6 @@ https://www.safaribooksonline.com/library/view/learning-javascript-design/978144
 
 https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738
 https://hackernoon.com/how-to-automate-all-the-things-with-gulp-b21a3fc96885
+
+//How to test your new NPM module without publishing?
+https://medium.com/@the1mills/how-to-test-your-npm-module-without-publishing-it-every-5-minutes-1c4cb4b369be
